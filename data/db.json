@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "description": "Run the project.",
+      "timestamp": "2022-12-04T22:49:18.057Z",
+      "done": true
+    },
+    {
+      "id": 2,
+      "description": "Finish the NextJS Task, and commit the changes!",
+      "timestamp": "2022-12-04T22:49:18.057Z",
+      "done": false
+    },
+    {
+      "id": 3,
+      "description": "Remove all ignored files using `git clean -dfX` command.",
+      "timestamp": "2022-12-04T22:49:18.057Z",
+      "done": false
+    },
+    {
+      "id": 4,
+      "description": "Zip the folder and email it to nedim@ankorainc.com.",
+      "timestamp": "2022-12-04T22:49:18.057Z",
+      "done": false
+    }
+  ]
+}
